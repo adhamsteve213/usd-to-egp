@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(7, 238, 255);
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    text-align: center;
+}
+#convert{
+    background-color: rgb(65, 244, 160);
+    border-radius: 50%;
+    padding : 15px;
+    color : white;
+    font-size: small;
+}
